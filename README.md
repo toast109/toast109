@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @toast109 
+- 👀 I’m interested in Python PyTorch tenserflow AI...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me jenispascalgienapp@gmail.com...
+
+<!---
+toast109/toast109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
